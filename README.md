@@ -9,7 +9,7 @@ Domains searched with one query:
 - Quora
 - .edu domains
 
-I will add more as time goes on and a new domain becomes important in my research queries. If you have a domain that would like to be added please contact me or open an issue & I will add it as a domain to be searched.
+I will add more as time goes on and a new domain becomes important in my research queries. If you have a domain that you would like to be added please contact me or open an issue & I will add it as a domain to be searched.
 
 This repository is designed to be used with homebrew (for Mac OS X) or linuxbrew (for Linux).
 
