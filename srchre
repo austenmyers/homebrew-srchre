@@ -4,7 +4,7 @@
 
 srchre() {
   echo "Srchre at work. Your research query will open shortly."
-	googler -l en site:wikipedia.com OR site:reddit.com OR site:github.com OR site:medium.com OR site:quora.com OR      site:ted.com OR site:youtube.com OR site:stackexchange.com OR site:stackoverflow.com OR site:.edu'
+	googler -l en site:wikipedia.com OR site:reddit.com OR site:github.com OR site:medium.com OR site:quora.com OR site:ted.com OR site:youtube.com OR site:stackexchange.com OR site:stackoverflow.com OR site:.edu
   echo "Srchre query finished. Your research results should be available in your browser."
 }
 
