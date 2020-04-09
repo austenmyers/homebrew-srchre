@@ -1,5 +1,16 @@
 # homebrew-shell
 
+A CLI tool to search specific credible sites and QA sites for the purpose of a one query research tool for google search results.
+
+Domains searched with one query:
+- Wikipedia
+- Stackoverflow
+- Reddit
+- Quora
+- .edu domains
+
+I will add more as time goes on and a new domain becomes important in my research queries. If you have a domain that would like to be added please contact me or open an issue & I will add it as a domain to be searched.
+
 This repository is designed to be used with homebrew (for Mac OS X) or linuxbrew (for Linux).
 
 ### How do I install scripts?
