@@ -1,6 +1,6 @@
 # homebrew-shell
 
-A CLI tool to search specific credible sites and QA sites for the purpose of a one query research tool for google search results.
+A CLI tool to search specific (more) trustworthy sites (on average) and QA sites for the purpose of a one query research tool for google search results.
 
 Domains searched with one query:
 - Wikipedia
